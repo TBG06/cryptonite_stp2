@@ -359,3 +359,5 @@ p64(0x40128c) — replaces the return address with duck()
 
 ## Shout Out
 - Just put v1t{w} direct flag.
+
+# THANK YOU
